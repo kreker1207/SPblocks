@@ -18,7 +18,7 @@ The Cipher Transformation Project is a Java application that demonstrates the us
 
 - `Main.java`: The main application that takes user input and calls methods from the `Cipher` class.
 - `Cipher.java`: The `Cipher` class contains methods for S-Box and P-Box transformations.
-- `CipherTest.java`: Some preseted tests to check that aplication is working with some data
+- `CipherTest.java`: Some preseted tests to check that application is working with some data
 ## Input Validation
 
 The application includes input validation to ensure that the input is an 8-bit value (between 0 and 255).
